@@ -2,11 +2,11 @@
 Implementar un generador de laberintos aleatorios y un resolvedor que encuentre la salida con menor distancia desde una celda inicial.
 
 # INTEGRANTES 
-mabel iveth diaz guerrero 
-juan diego borja valdez
-cristian camilo dorado
-victor manuel velazco gonzales 
-Gustavo Marquez 
+-mabel iveth diaz guerrero 
+-juan diego borja valdez
+-cristian camilo dorado
+-victor manuel velazco gonzales 
+-Gustavo Marquez 
 
 ## Características
 - laberinto aleatorio 
