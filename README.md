@@ -2,22 +2,22 @@
 Implementar un generador de laberintos aleatorios y un resolvedor que encuentre la salida con menor distancia desde una celda inicial.
 
 # INTEGRANTES 
--mabel iveth diaz guerrero 
--juan diego borja valdez
--cristian camilo dorado
--victor manuel velazco gonzales 
--Gustavo Marquez 
+-Mabel Iveth Diaz  
+-Juan Diego Borja Valdez
+-Cristian Camilo Dorado
+-Viktor Manuelle Velasco  
+-Gustavo Saúl Marquez 
 
 ## Características
-- laberinto aleatorio 
+- Laberinto Aleatorio 
 
 ## Tecnologías utilizadas
 Lenguaje de Programacion:
 - Java
 
 ## Requisitos
-- codigo limpio
-- poo
+- Codigo limpio
+- POO
 
 ## Instalación
 1. Clonar el repositorio.
