@@ -3,9 +3,13 @@ Implementar un generador de laberintos aleatorios y un resolvedor que encuentre 
 
 # INTEGRANTES 
 -Mabel Iveth Diaz  
+
 -Juan Diego Borja Valdez
+
 -Cristian Camilo Dorado
+
 -Viktor Manuelle Velasco  
+
 -Gustavo Saúl Marquez 
 
 ## Características
