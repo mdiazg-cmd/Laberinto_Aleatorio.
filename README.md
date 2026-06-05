@@ -12,6 +12,7 @@ Implementar un generador de laberintos aleatorios y un resolvedor que encuentre 
 - laberinto aleatorio 
 
 ## Tecnologías utilizadas
+Lenguaje de Programacion:
 - Java
 
 ## Requisitos
